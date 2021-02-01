@@ -4,7 +4,7 @@ Le but de ce projet est de développer deux applications mobiles qui s'échangen
 ## Contact'em All 
 Contact'em All est une application mobile compatible avec les appareils android. 
 
-Cette application permet d'afficher la liste des contacts enregistrés sur le mobile de l'utilisateur. Une permission d'accès aux contacts doit être accordée à l'application. Dans le cas contraire, un message d'erreur est affiché sur l'écran principal. Contact'em All se charge de l'envoie des données ( la liste des contacts) à la deuxième application.   
+Cette application permet d'afficher la liste des contacts enregistrés sur le mobile de l'utilisateur. Une permission d'accès aux contacts doit être accordée à l'application. Dans le cas contraire, un message d'erreur est affiché sur l'écran principal. Contact'em All se charge de l'envoi des données (la liste des contacts) à la deuxième application.   
 
 ## Rate'em All
 Rate'em All est aussi destinée aux appareils android. 
