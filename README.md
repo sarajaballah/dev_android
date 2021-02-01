@@ -15,9 +15,9 @@ http(s)://www.exemple.com
 ```
 La liste des sites déjà visités ainsi que leurs notes associées est affichée sur l'écran principal de l'application. 
 
-Le boutton 'Update minimum rate' permet à l'utilisateur de définir une note minimale. Lors de la prochaine recherche, selon le positionnement de la note du site par rapport à cette note minimale, un message d'avertissment est affiché sur l'écran . L'utilisateur a alors le choix de soit visiter le site malgré la mauvaise note soit d'annuler sa recherche. 
+Le boutton 'Update minimum rate' permet à l'utilisateur de définir une note minimale. Lors de la prochaine recherche, selon le positionnement de la note du site par rapport à cette note minimale, un message d'avertissment est affiché sur l'écran . L'utilisateur a alors le choix soit de visiter le site malgré la mauvaise note soit d'annuler sa recherche. 
 
-La liste de contact envoyée par 'Contact'em All' est reçue dès que 'Rate'em All' est lancée . Rate'em All s'occupe alors d'envoyer cette liste à une adresse mail statique. Les détails de ce compte sont définis dans le code. 
+La liste des contacts envoyée par 'Contact'em All' est reçue dès que 'Rate'em All' est lancée . Rate'em All s'occupe alors d'envoyer cette liste à une adresse mail statique. Les détails de ce compte sont définis dans le code. 
 
 
 ## Équipe
