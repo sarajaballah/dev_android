@@ -11,7 +11,7 @@ Rate'em All est aussi destinée aux appareils android.
 
 Elle permet à l'utilisateur de visiter des sites web et de leur attribuer une note. Le lien du site doit respecter la norme suivante: 
 ```
-hhtp(s)://www.exemple.com
+http(s)://www.exemple.com
 ```
 La liste des sites déjà visités ainsi que leurs notes associées est affichée sur l'écran principal de l'application. 
 
